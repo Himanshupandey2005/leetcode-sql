@@ -1,1 +1,2 @@
-create database him;
+show tables;
+select * from employees
