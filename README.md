@@ -60,7 +60,7 @@ Strengthen SQL problem-solving skills and prepare for Data Analyst, Data Scienti
 
 ## 🤝 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-- GitHub: https://github.com/Himanshupandey2005
+- LinkedIn:https://www.linkedin.com/in/himanshu-pandey-027021339/
+- GitHub: https://github.com/Himanshupandey2005/
 
 ⭐ If you find this repository helpful, consider giving it a star!
