@@ -11,13 +11,6 @@ This repository contains my solutions to the **LeetCode SQL 50 Study Plan**.
 
 ---
 
-## 📈 Progress
-
-| Completed | Total |
-|-----------|-------|
-| 35 | 50 |
-
-**Progress:** 35/50 ✅
 
 ---
 
